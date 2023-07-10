@@ -19,6 +19,7 @@
     "jasmine": "^3.99.0"
   },
   "dependencies": {
-    "jsdom": "^16.4.0"
+    "jsdom": "^16.4.0",
+    "node-fetch": "^3.3.1"
   }
 }
